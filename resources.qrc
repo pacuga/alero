@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/AumentarBuffer" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
